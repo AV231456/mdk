@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.exe
+C:\Users\Student\source\repos\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.deps.json
+C:\Users\Student\source\repos\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.runtimeconfig.json
+C:\Users\Student\source\repos\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.dll
+C:\Users\Student\source\repos\MDK1\MDK1\bin\Debug\net8.0-windows\MDK1.pdb
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.Form1.resources
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.AssemblyInfo.cs
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.dll
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\refint\MDK1.dll
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.pdb
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\MDK1.genruntimeconfig.cache
+C:\Users\Student\source\repos\MDK1\MDK1\obj\Debug\net8.0-windows\ref\MDK1.dll
